@@ -1,0 +1,43 @@
+.main{
+    color: #dad2bc;
+    background-color:#70798c;
+
+    width: 200px;
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+   
+
+
+}
+.main2{
+    color:#dad2bc;
+    background-color:#70798c;
+    text-decoration: red underline;
+    width: 200px;
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+  
+    
+    
+    
+}
+.main2::first-letter{
+    color:blue;
+
+}
+body{
+    background-color:#232325;
+}
+ul{
+    color:#a99985;
+}
+
+body{
+    background-image: url("download.jpeg");
+    background-size: contain;
+}
+img{
+    margin: auto;
+}
